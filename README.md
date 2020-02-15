@@ -9,3 +9,11 @@ O repositório irá guardar mais de um projeto, ou seja, tem uma pasta para o pr
 
 ## Padrão de projetos
 Cada projeto contém um `Readme.md` para ajudar você a montar seu ambiente e conseguir rodar ele localmente.
+
+# Time 
+Time formador por:
+* [Alex]()
+* [Aldo]() 
+* [Gabriel]()
+* [Lucas]()
+* [Valter]()
