@@ -12,8 +12,8 @@ Cada projeto contém um `Readme.md` para ajudar você a montar seu ambiente e co
 
 # Time 
 Time formador por:
-* [Alex]()
-* [Aldo]() 
+* [Aldo]()
+* [Alex]() 
 * [Gabriel]()
 * [Lucas]()
 * [Valter]()
