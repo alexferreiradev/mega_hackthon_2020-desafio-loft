@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/guimaraes-lucas/payment-service-provider#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "http-status": "^1.3.2",
     "pg": "^7.11.0",
     "pg-hstore": "^2.3.3",
